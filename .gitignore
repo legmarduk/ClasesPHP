@@ -1,0 +1,13 @@
+clases que necesito crear:
+
+=>user.class.php----------------------------{CREATE, UPDATE, DELETE, getUserByMail}
+=>material.class.php------------------------{CREATE, UPDATE, DELETE, getMaterialsByCode}
+=>request.class.php-------------------------{CREATE, UPDATE, DELETE}
+=>state.class.php---------------------------{CREATE, DELETE, getAllStates}
+=>state_request.class.php-------------------{create,}
+=>detail_request.class.php
+=>permision.class.php
+=>permission_user.class.php
+=>cost_center.class.php
+=>entry_material.class.php
+=>state_request.class.php
