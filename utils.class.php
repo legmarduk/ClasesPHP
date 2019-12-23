@@ -4,10 +4,10 @@ class DB {
     public $con;
 	public $lastQuery;
 	private $_debug;
-	private $_HOST	 = '31.220.52.124';
-	private $_USER	 = 'ctrlmat_dev';
-	private $_PASS	 = '5a7a592d';
-	private $_DB	 = 'ctrlmat_dev';
+	private $_HOST	 = '';
+	private $_USER	 = '';
+	private $_PASS	 = '';
+	private $_DB	 = '';
 
     /**
      * The purpose of this method is to hide sensitive data from stack traces.
